@@ -25,8 +25,7 @@ Please stay tuned for updates.
 
 ## 📚 Citation
 
-A full citation will be provided once the paper is officially published.  
-For now, you may cite this repository as:
+If you find this project helps your research, please kindly consider citing our papers in your publications.
 
 ```bibtex
 
