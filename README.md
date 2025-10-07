@@ -21,6 +21,19 @@ This dataset is designed to support research on **implicit privacy leakage analy
 The dataset will be made publicly available upon the official publication of the paper.  
 Please stay tuned for updates.
 
+| General Privacy Information | Privacy-related Event |
+|-----------------------------|---------------------|
+| Illegal act                 | Robbery, fighting, gambling, car accident |
+| Political orientation       | Demonstration, election campaign, military operation |
+| Religious beliefs           | Buddhist activity, Islam activity, Christian activity |
+| Social relationships        | Dance, greeting, gathering, couple dating, wedding, funeral, party, meeting |
+| Occupation                  | Schoolkids, surgery, waitstaff working, laborer working |
+| Sports hobbies              | Running, playing basketball, playing soccer, playing badminton, esports competitions, playing table tennis, swimming |
+| Lifestyle interests         | Computer expo, spa, concerts, art exhibition |
+| Everyday life               | Driving car, shopping, eating, sleeping, using the phone |
+| Public                      | Landscape, traffic |
+
+
 ---
 
 ## 📚 Citation
