@@ -9,7 +9,7 @@ This repository will host the **PrivEvent** dataset and supplementary materials 
 ## 📄 Paper
 
 The final accepted version of the paper will be uploaded here after the official publication.  
-👉 [Coming soon](#)
+👉 [SCOPE: Bridging Explicit and Implicit Privacy Leakage for Quantitative Image Privacy Evaluationn](#https://ieeexplore.ieee.org/document/11199878/keywords#keywords)
 
 ---
 
@@ -18,8 +18,7 @@ The final accepted version of the paper will be uploaded here after the official
 **PrivEvent** is a **hierarchical privacy event dataset**, which consists of **9 types of general privacy information** and **40 privacy-related events**.  
 This dataset is designed to support research on **implicit privacy leakage analysis** and **quantitative privacy evaluation** in visual data.
 
-The dataset will be made publicly available upon the official publication of the paper.  
-Please stay tuned for updates.
+👉 [Download](#https://pan.baidu.com/s/1AkmT1mDOGUtTJIFXHMprHg?pwd=x5d6)
 
 | General Privacy Information | Privacy-related Event |
 |-----------------------------|---------------------|
@@ -41,5 +40,16 @@ Please stay tuned for updates.
 If you find this project helps your research, please kindly consider citing our papers in your publications.
 
 ```bibtex
+
+@article{huangSCOPEBridgingExplicit2025,
+  title = {SCOPE: Bridging Explicit and Implicit Privacy Leakage for Quantitative Image Privacy Evaluation},
+  shorttitle = {SCOPE},
+  author = {Huang, Yunyi and Hou, Jiahui and Zhao, Chuang and Zhang, Jie and Xiao, Tie and Li, Xiang-Yang},
+  year = {2025},
+  journal = {IEEE Transactions on Information Forensics and Security},
+  pages = {1--1},
+  issn = {1556-6021},
+  doi = {10.1109/TIFS.2025.3620117}
+}
 
 ```
