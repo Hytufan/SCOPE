@@ -8,8 +8,7 @@ This repository will host the **PrivEvent** dataset and supplementary materials 
 
 ## 📄 Paper
 
-The final accepted version of the paper will be uploaded here after the official publication.  
-👉 [SCOPE: Bridging Explicit and Implicit Privacy Leakage for Quantitative Image Privacy Evaluationn](https://ieeexplore.ieee.org/document/11199878/keywords#keywords)
+👉 [SCOPE: Bridging Explicit and Implicit Privacy Leakage for Quantitative Image Privacy Evaluationn](https://ieeexplore.ieee.org/document/11199878/)
 
 ---
 
