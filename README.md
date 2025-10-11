@@ -9,7 +9,7 @@ This repository will host the **PrivEvent** dataset and supplementary materials 
 ## 📄 Paper
 
 The final accepted version of the paper will be uploaded here after the official publication.  
-👉 [SCOPE: Bridging Explicit and Implicit Privacy Leakage for Quantitative Image Privacy Evaluationn](#https://ieeexplore.ieee.org/document/11199878/keywords#keywords)
+👉 [SCOPE: Bridging Explicit and Implicit Privacy Leakage for Quantitative Image Privacy Evaluationn](https://ieeexplore.ieee.org/document/11199878/keywords#keywords)
 
 ---
 
@@ -18,7 +18,7 @@ The final accepted version of the paper will be uploaded here after the official
 **PrivEvent** is a **hierarchical privacy event dataset**, which consists of **9 types of general privacy information** and **40 privacy-related events**.  
 This dataset is designed to support research on **implicit privacy leakage analysis** and **quantitative privacy evaluation** in visual data.
 
-👉 [Download](#https://pan.baidu.com/s/1AkmT1mDOGUtTJIFXHMprHg?pwd=x5d6)
+👉 [Download](https://pan.baidu.com/s/1AkmT1mDOGUtTJIFXHMprHg?pwd=x5d6)
 
 | General Privacy Information | Privacy-related Event |
 |-----------------------------|---------------------|
