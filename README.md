@@ -52,3 +52,7 @@ If you find this project helps your research, please kindly consider citing our 
 }
 
 ```
+
+## Acknowledgment
+
+This repository is developed on top of the scene graph benchmarking framwork develped by [KaihuaTang](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch) and [SHTUPLUS](https://github.com/SHTUPLUS/PySGG).
