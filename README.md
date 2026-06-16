@@ -34,6 +34,22 @@ This dataset is designed to support research on **implicit privacy leakage analy
 
 ---
 
+## Training
+
+Train the model using:
+
+bash scripts/pa_train.sh
+
+---
+
+## Evaluation
+
+Evaluate the model using:
+
+bash scripts/rel_test.sh
+
+---
+
 ## 📚 Citation
 
 If you find this project helps your research, please kindly consider citing our papers in your publications.
@@ -56,3 +72,5 @@ If you find this project helps your research, please kindly consider citing our 
 ## Acknowledgment
 
 This repository is developed on top of the scene graph benchmarking framwork develped by [KaihuaTang](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch) and [SHTUPLUS](https://github.com/SHTUPLUS/PySGG).
+
+We sincerely thank the authors for making their code publicly available.
